@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "触摸",
+        "width": 640,
+        "height": 905,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
